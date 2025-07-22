@@ -1,6 +1,6 @@
-package org.example;
+package org.PanelEstadisticas;
 
-public class FeatureHU024C5 {
+public class HU024C5 {
     public static void main(String[] args) {
         int contadorVisitas = 0;
 
