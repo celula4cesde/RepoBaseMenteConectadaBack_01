@@ -1,4 +1,4 @@
-package org.PanelEstadisticas;
+package PanelEstadisticas;
 
 public class HU023C4 {
 
