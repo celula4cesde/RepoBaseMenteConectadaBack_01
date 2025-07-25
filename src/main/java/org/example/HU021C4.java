@@ -35,9 +35,9 @@ public class HU021C4 {
 
         // Resultado final
         if (contador > 0) {
-            System.out.println("\nHas asistido a " + contador + " evento(s).");
+            System.out.print("\nHas asistido a " + contador + " evento(s).");
         } else {
-            System.out.println("\nNo hay registros de asistencia a eventos.");
+            System.out.print("\nNo hay registros de asistencia a eventos.");
         }
 
         scanner.close();
