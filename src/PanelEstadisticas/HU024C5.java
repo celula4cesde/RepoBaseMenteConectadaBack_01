@@ -1,6 +1,6 @@
 package PanelEstadisticas;
 
-public class HU024C5 {
+public class HU024C4 {
     public static void main(String[] args) {
         int contadorVisitas = 0;
 
